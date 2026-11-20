@@ -1,7 +1,7 @@
-# Barcelona | Eventos corporativos
+# Barcelona Buffet | Celebrações
 
-Protótipo desenvolvido pela Shark Media.
+Landing page da Shark Media para casamentos, festas de 15 anos, aniversários e eventos corporativos do Barcelona Buffet.
 
-Página estática com imagens, estilos e JavaScript incorporados. Hospedagem: GitHub Pages, branch main, diretório raiz.
+Fotografias do portfólio oficial do Barcelona, sem data de captura confirmada. Serviços, capacidade e condições definidos na proposta.
 
-Fotos do portfólio social do Barcelona Buffet. Capacidade, formatos corporativos e serviços sujeitos à validação do Barcelona.
+GitHub Pages: branch main, pasta raiz.
